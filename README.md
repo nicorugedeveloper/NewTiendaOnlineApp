@@ -29,11 +29,13 @@ Recomendamos usar una versión estable de Node.js y npm para evitar posibles pro
  
   ```bash
    npm install --force
+  ```
 
+  ```bash
    npm install --legacy-peer-deps
-
    ```
-  Si prefieres usar **yarn**, puedes ejecutar:
+
+  Si prefieres usar **yarn** , puedes ejecutar:
 
   ```bash
    yarn install --ignore-engines
@@ -45,8 +47,11 @@ Recomendamos usar una versión estable de Node.js y npm para evitar posibles pro
 Estos son los comandos disponibles para ejecutar la aplicación:
 
 **npm start:** Inicia Expo.
+
 **npm run android:** Inicia Expo en un dispositivo Android.
+
 **npm run ios:** Inicia Expo en un dispositivo iOS.
+
 **npm run web:** Inicia Expo en un navegador web.
 
    
