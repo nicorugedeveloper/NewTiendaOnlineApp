@@ -42,18 +42,40 @@ Recomendamos usar una versión estable de Node.js y npm para evitar posibles pro
 
    ```
 
+
 ## Scripts disponibles
 
 Estos son los comandos disponibles para ejecutar la aplicación:
 
-**npm start:** Inicia Expo.
+- **npm start:** Inicia Expo.
 
-**npm run android:** Inicia Expo en un dispositivo Android.
+- **npm run android:** Inicia Expo en un dispositivo Android.
 
-**npm run ios:** Inicia Expo en un dispositivo iOS.
+- **npm run ios:** Inicia Expo en un dispositivo iOS.
 
-**npm run web:** Inicia Expo en un navegador web.
+- **npm run web:** Inicia Expo en un navegador web.
 
+
+
+## Estructura del proyecto
+
+- **expo/AppEntry.js:** Punto de entrada principal de la aplicación.
+  
+- Las dependencias se encuentran en el archivo **package.json**.
+
+
+  
+## Dependencias principales
+
+- **React Native:** 0.74.5
+  
+- **Expo:** ~51.0.28
+  
+- **React Navigation:** ^6.6.1
+  
+- **Axios:** ^1.7.7
+
+- **Async Storage:** 1.23.1
    
 
 
