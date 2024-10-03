@@ -14,6 +14,6 @@ Recomendamos usar una versión estable de Node.js y npm para evitar posibles pro
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/usuario/newtiendaonlineapp.git
-  ```
+  .
 Hola
    
