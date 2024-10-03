@@ -76,7 +76,23 @@ Estos son los comandos disponibles para ejecutar la aplicación:
 - **Axios:** ^1.7.7
 
 - **Async Storage:** 1.23.1
+  
+
+## Ejecutar la aplicación
+
+Para ejecutar la aplicación en modo de desarrollo:
+
+1. Asegúrate de tener Expo CLI instalado globalmente:
    
+  ```bash
+  npm install -g expo-cli
+  ```
+
+2. Ejecuta el siguiente comando para iniciar Expo:
+  ```bash
+  npm start
+  ```
+
 
 
 
